@@ -73,4 +73,4 @@ Product	Total Quantity	Total Revenue
 Apple	15	7.5
 Banana	30	6.0
 Orange	15	4.5
-![Revenue Chart](sales_revenue_chart.png)
+Bar Chart as provided in .png file
